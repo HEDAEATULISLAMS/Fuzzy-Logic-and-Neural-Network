@@ -59,3 +59,4 @@ for k in range(epoch):
                 W[i][1] = W[i][1] + la * (X[i][j] - W[i][1]) 
 print(W)
 
+
